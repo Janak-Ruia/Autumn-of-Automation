@@ -9,7 +9,7 @@ def calc():
 	x_final=np.dot(xm, xt)
 	return np.dot(x_final, y)
 
-print(calc())
+
 
 
 
