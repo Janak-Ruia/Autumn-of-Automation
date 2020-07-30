@@ -1,0 +1,23 @@
+Epoch 1/10
+7/7 [==============================] - 6s 859ms/step - loss: 0.8631 - accuracy: 0.4964 - recall: 0.4167 - precision: 0.4957 - val_loss: 0.8305 - val_accuracy: 0.5333 - val_recall: 1.0000 - val_precision: 0.5333
+Epoch 2/10
+7/7 [==============================] - 5s 773ms/step - loss: 0.8153 - accuracy: 0.5960 - recall: 0.9275 - precision: 0.5577 - val_loss: 0.7266 - val_accuracy: 0.7667 - val_recall: 1.0000 - val_precision: 0.6957
+Epoch 3/10
+7/7 [==============================] - 6s 812ms/step - loss: 0.6408 - accuracy: 0.8043 - recall: 0.9130 - precision: 0.7500 - val_loss: 0.3500 - val_accuracy: 1.0000 - val_recall: 1.0000 - val_precision: 1.0000
+Epoch 4/10
+7/7 [==============================] - 5s 774ms/step - loss: 0.3792 - accuracy: 0.8913 - recall: 0.8696 - precision: 0.9091 - val_loss: 0.2289 - val_accuracy: 0.9667 - val_recall: 0.9375 - val_precision: 1.0000
+Epoch 5/10
+7/7 [==============================] - 5s 767ms/step - loss: 0.2881 - accuracy: 0.9312 - recall: 0.9130 - precision: 0.9474 - val_loss: 0.1886 - val_accuracy: 1.0000 - val_recall: 1.0000 - val_precision: 1.0000
+Epoch 6/10
+7/7 [==============================] - 5s 773ms/step - loss: 0.2038 - accuracy: 0.9638 - recall: 0.9601 - precision: 0.9672 - val_loss: 0.1522 - val_accuracy: 1.0000 - val_recall: 1.0000 - val_precision: 1.0000
+Epoch 7/10
+7/7 [==============================] - 6s 799ms/step - loss: 0.1641 - accuracy: 0.9674 - recall: 0.9565 - precision: 0.9778 - val_loss: 0.1142 - val_accuracy: 1.0000 - val_recall: 1.0000 - val_precision: 1.0000
+Epoch 8/10
+7/7 [==============================] - 5s 768ms/step - loss: 0.1385 - accuracy: 0.9728 - recall: 0.9674 - precision: 0.9780 - val_loss: 0.0924 - val_accuracy: 1.0000 - val_recall: 1.0000 - val_precision: 1.0000
+Epoch 9/10
+7/7 [==============================] - 6s 802ms/step - loss: 0.1101 - accuracy: 0.9855 - recall: 0.9819 - precision: 0.9891 - val_loss: 0.0691 - val_accuracy: 1.0000 - val_recall: 1.0000 - val_precision: 1.0000
+Epoch 10/10
+7/7 [==============================] - 5s 776ms/step - loss: 0.0890 - accuracy: 0.9928 - recall: 0.9928 - precision: 0.9928 - val_loss: 0.0609 - val_accuracy: 1.0000 - val_recall: 1.0000 - val_precision: 1.0000
+Evaluating on validation set:
+1/1 [==============================] - 0s 1ms/step - loss: 0.0855 - accuracy: 1.0000 - recall: 0.0000e+00 - precision: 0.0000e+00
+test_loss, test_accuracy:  0.08552933484315872 1.0
